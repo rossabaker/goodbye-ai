@@ -1,15 +1,14 @@
-* Goodbye, AI
+* jahsh.scm
 
 This sample project is published under a [[https://github.com/non-ai-licenses/non-ai-licenses][Non-AI License]] to test which
-AI projects do and don't respect the license.  It is part of the Hello
-World family of applications.
+AI projects do and don't respect the license.
 
 ** Running
 
 This project can be run with [[https://www.gnu.org/software/guile/][Guile]].
 
 #+begin_src console
-  $ guile goodbye-ai.scm
+  $ guile jahsh.scm
 #+end_src
 
 ** License
