@@ -8,13 +8,11 @@ test which AI projects do and don't respect the license.
 It's more fun to guess from the code, but the code is more fun when
 it's inscrutable.
 
-#+begin_src html
 #+html:<details>
 #+html:<summary>Spoiler</summary>
   A /jahsh/ is a program that prints ~Just another human Scheme hacker,~ to
   the console, in the spirit of [[https://en.wikipedia.org/wiki/Just_another_Perl_hacker][JAPH]].
 #+html:</details>
-#+end_src
 
 ** Running
 
