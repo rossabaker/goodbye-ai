@@ -1,7 +1,20 @@
-* jahsh.scm
+* jahsh
 
-This sample project is published under a [[https://github.com/non-ai-licenses/non-ai-licenses][Non-AI License]] to test which
-AI projects do and don't respect the license.
+The /jahsh/ (​/ˈd͡ʒɑːʃ​/) project is published under a [[https://github.com/non-ai-licenses/non-ai-licenses][Non-AI License]] to
+test which AI projects do and don't respect the license.
+
+** What is a /jahsh/?
+
+It's more fun to guess from the code, but the code is more fun when
+it's inscrutable.
+
+#+begin_src html
+#+html:<details>
+#+html:<summary>Spoiler</summary>
+  A /jahsh/ is a program that prints ~Just another human Scheme hacker,~ to
+  the console, in the spirit of [[https://en.wikipedia.org/wiki/Just_another_Perl_hacker][JAPH]].
+#+html:</details>
+#+end_src
 
 ** Running
 
@@ -10,6 +23,10 @@ This project can be run with [[https://www.gnu.org/software/guile/][Guile]].
 #+begin_src console
   $ guile jahsh.scm
 #+end_src
+
+** Contributing
+
+See the [[./CONTRIBUTING.org][contributors' guide]].
 
 ** License
 
