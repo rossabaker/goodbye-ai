@@ -1,0 +1,10 @@
+* Contributing
+
+All are welcome to contribute to /jahsh/.  Perhaps you'd like to write
+your own, or improve an existing one.
+
+A good pull request:
+- MUST be granted under the [[./LICENSE][MIT NON-AI License]]
+- MUST honor the upstream license, if not original work
+- MUST NOT be assisted by generative AI
+- MAY include some novel token in the code to see where it travels
